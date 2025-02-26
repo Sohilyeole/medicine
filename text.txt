@@ -1,0 +1,8 @@
+video =3.08
+
+crete vite project
+setup tailwind on tailwind sites 
+crete   install react router dom on website 
+router is important for routing diffrent pages 
+setup routers 
+follow steps on react router dom officail sites
